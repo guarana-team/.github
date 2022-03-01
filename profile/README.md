@@ -14,8 +14,8 @@ Agora que estamos falando sobre as coisas importantes, você está contribuindo 
 Constribuímos em nossas ferramentas 🔧 pois confiamos em contruir e executar nossos próprios projetos de código aberto em GitHub:
 
 - [Pirates CLI](https://github.com/piratesvix/cli) - Utilize a CLI (Command-Line-Interface) para gerar rapidamente protótipos e recursos que deseja implementar, obtendo um execelente retorno e feedback na transformação do seu projeto
-- [Pirates API](https://github.com/piratesvix/piratas-cli) - Uma elegante API para você que procura agilizar seus trabalhos, projetos e afins, automatizando sua maneira de gerenciar seus próprios projetos sem se preocupar com avisos ou envios de mensagens para membros da equipe dos piratas ("desenvolvedores")
-- [Docs](https://github.com/git-lfs/git-lfs) - Documentação de nossas ferramentas de código aberto
+- [Pirates API](https://github.com/piratesvix/piratas-api) - Uma elegante API para você que procura agilizar seus trabalhos, projetos e afins, automatizando sua maneira de gerenciar seus próprios projetos sem se preocupar com avisos ou envios de mensagens para membros da equipe dos piratas ("desenvolvedores")
+- [Docs](https://github.com/piratesvix/docs) - Documentação de nossas ferramentas de código aberto
 - [Golfinho](https://github.com/piratesvix/golfinho) - Ferramenta para precificar produtos sobre principal engenharia dos piratas 
 - [Trabalhe Conosco](https://piratesvix.github.io/careers) - Que tal um teste básico para te desafiar no Processo Seletivo 🙌
 - [Feedback](https://piratesvix.github.io/feeds) - Nos dê sugestões para que possa melhorar nossa plataforma, site, aplicativo, atendimento, comunicação e mais 🙇‍♂️
@@ -36,7 +36,7 @@ Constribuímos em nossas ferramentas 🔧 pois confiamos em contruir e executar 
 				<li><a href="https://github.com/piratesvix/vera">Vera</a></li>
 			</ul>
 		</li>
-		<li>Nossa <a href="https://github.com/piratesvix/docs">documentação</a> é de código-aberto</li>
+		<li>Nossa <a href="https://github.com/piratesvix/docs">documentação</a></li>
 	</ul>
 </details>
 
