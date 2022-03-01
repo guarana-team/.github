@@ -13,7 +13,7 @@ Agora que estamos falando sobre as coisas importantes, você está contribuindo 
 
 Constribuímos em nossas ferramentas 🔧 pois confiamos em contruir e executar nossos próprios projetos de código aberto em GitHub:
 
-- [Pirates CLI](https://github.com/piratesvix/cli) - Utilize a CLI (Command-Line-Interface) para gerar rapidamente protótipos e recursos para implementar por diversos meios de comunicação, obtendo um execelente retorno e feedback para a transformação do seu projeto
+- [Pirates CLI](https://github.com/piratesvix/cli) - Utilize a CLI (Command-Line-Interface) para gerar rapidamente protótipos e recursos que deseja implementar, obtendo um execelente retorno e feedback na transformação do seu projeto
 - [Pirates API](https://github.com/piratesvix/piratas-cli) - Uma elegante API para você que procura agilizar seus trabalhos, projetos e afins, automatizando sua maneira de gerenciar seus próprios projetos sem se preocupar com avisos ou envios de mensagens para membros da equipe dos piratas ("desenvolvedores")
 - [Docs](https://github.com/git-lfs/git-lfs) - Documentação de nossas ferramentas de código aberto
 - [Golfinho](https://github.com/piratesvix/golfinho) - Ferramenta para precificar produtos sobre principal engenharia dos piratas 
@@ -28,7 +28,7 @@ Constribuímos em nossas ferramentas 🔧 pois confiamos em contruir e executar 
 	<summary>"Quais São as Tecnologias que os Piratas mais usam?"</summary>
 	<br>
 	<ul>
-	<li>O Ecossistema do Pirates Vix é construído utilizando poderosas tecnologias de código-aberto 🔨 como <a href="https://github.com/docker">Docker</a>, <a href="https://github.com/rust-lang">Rust</a>, <a href="https://github.com/golang">Go</a>, <a href="https://github.com/primer/">Primer</a>, <a href="https://github.com/nodejs/">Node.js</a>, <a href="https://github.com/reactjs">React</a> and <a href="https://github.com/apache/kafka">Kafka</a> e outros.</li>
+	<li>O Ecossistema do Pirates Vix é construído utilizando poderosas tecnologias de código-aberto 🔨 como <a href="https://github.com/docker">Docker</a>, <a href="https://github.com/rust-lang">Rust</a>, <a href="https://github.com/python">Python</a>, <a href="https://github.com/golang">Go</a>, <a href="https://github.com/primer/">Primer</a>, <a href="https://github.com/nodejs/">Node.js</a>, <a href="https://github.com/reactjs">React</a>, <a href="https://github.com/vuejs">Vue</a>, <a href="https://github.com/apache/kafka">Kafka</a> e outros.</li>
 		<li>Projetos que os membros do Pirates Vix Technologies já contribuíram 👩‍💻:
 			<ul>
 				<li><a href="https://github.com/project-barca/barca-cli">Barca</a></li>
@@ -42,4 +42,4 @@ Constribuímos em nossas ferramentas 🔧 pois confiamos em contruir e executar 
 
 ---
 
-<sub>Copyright © [Pirates Vix Technologies](https://piratesvix.github.io) Made with 🖤</sub>
+<sub>Copyright © [Pirates Vix Technologies](https://piratesvix.github.io)  made with 🖤</sub>
